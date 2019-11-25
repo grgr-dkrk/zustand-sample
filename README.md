@@ -1,2 +1,7 @@
-# suburi-template
-OSSの検証などに使う
+# zustand-sample
+
+zustandの紹介用
+
+```shell
+yarn dev
+```

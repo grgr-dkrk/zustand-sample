@@ -1,7 +1,7 @@
 {
-  "name": "suburi-template",
+  "name": "zustand-sample",
   "version": "1.0.0",
-  "description": "素振り、OSSの検証とか",
+  "description": "zustandのサンプル",
   "main": "index.js",
   "author": "grgr-dkrk",
   "license": "MIT",
@@ -49,6 +49,7 @@
     "redux": "^4.0.4",
     "styled-components": "^4.4.0",
     "ts-node-dev": "^1.0.0-pre.43",
-    "tsc": "^1.20150623.0"
+    "tsc": "^1.20150623.0",
+    "zustand": "^2.2.1"
   }
 }
